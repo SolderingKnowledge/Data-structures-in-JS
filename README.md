@@ -1,7 +1,9 @@
 # Data structures in Javascript
 
 > For learning purpuses
+
 > Understanding of data structures
+
 > These are just implementations
 
 
