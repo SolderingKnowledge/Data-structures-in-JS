@@ -42,7 +42,7 @@ class SLL{
     let node = this.head;//current -> head;  swapping
     this.head = this.tail;// head -> tail;
     this.tail = node;// tail -> current;
-    let next;
+    let next=null;
     let prev = null;
     for(let i=0; i<this.length; i++){
       next = node.next;//undefined -> next; other way of swapping
